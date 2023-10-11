@@ -94,7 +94,7 @@ Telegram bot was created and added to a specific telegram group
 #### Steps:
 1. clone repository to your local machine
 ~~~
-git clone https://github.com/natalia-s-belova/reqres_api_tests
+git clone https://github.com/AlexanderVaraksa/demo_api_tests
 ~~~
 2. create and activate virtual environment 
 ~~~
