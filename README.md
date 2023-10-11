@@ -34,6 +34,7 @@ The following verifications conducted:
 Pytest parameterization and pytest fixtures used in project.
 
 Example of test case (*GET users* request) in Allure Report:
+
 <img src="readme_images/reqres_test_example.png" height="500"/>&nbsp;
 
 ### Test Launch
