@@ -57,7 +57,7 @@ Select individual tests or test groups by their allure decorators: e.g. Update U
 
 Reporting is implemented with **Allure services**.
 
-[Allure Report](https://jenkins.autotests.cloud/job/006_alexanderv_demo_API/34/allure/) can be opened from Jenkins, see screenshot below. And contains charts, details of test executions, different kinds of attachments (logs, jsons, response codes, etc.).
+[Allure Report](https://jenkins.autotests.cloud/job/006_alexanderv_demo_API/34/allure/) can be opened from Jenkins, see screenshot below. It displays charts, test executions details, different kinds of attachments (logs, jsons, response codes, etc.).
 
 <img src="readme_images/reqres_allure_1.png"/>&nbsp;
 <img src="readme_images/reqres_allure_2.png"/>&nbsp;
