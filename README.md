@@ -36,8 +36,13 @@ Pytest parameterization and pytest fixtures used in project.
 Example of test case (*GET users* request) in Allure Report:
 <img src="readme_images/reqres_test_example.png" height="500"/>&nbsp;
 
-### Test Launch
+### Jenkins settings
 **Jenkins** is used for test runs.
+Jenkins job configuration is below:
+
+<img src="readme_images/jenkins_settings.png" height="400"/>&nbsp;
+
+### Test Launch
 To run tests, go to [Jenkins job](https://jenkins.autotests.cloud/job/006_alexanderv_demo_API_Allure_TestOps/) and click 'Build now'.
 
 <img src="readme_images/reqres_jenkins_job.png"/>&nbsp;
@@ -94,7 +99,7 @@ Telegram bot was created and added to a specific telegram group
 #### Steps:
 1. clone repository to your local machine
 ~~~
-git clone https://github.com/natalia-s-belova/reqres_api_tests
+git clone https://github.com/AlexanderVaraksa/demo_api_tests
 ~~~
 2. create and activate virtual environment 
 ~~~
